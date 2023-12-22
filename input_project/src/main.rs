@@ -8,7 +8,7 @@ fn main() {
             println!("Your message was: {}", input);
         }
         Err(e) => {
-            println!("Something went wrong: {}", e);
+            println!("Something went wrong 1: {}", e);
         }
     }
 }
